@@ -10,9 +10,6 @@
     ---third-color: #FF7A30;
     ---text-color: #000;
 }
-body {
-    overflow: hidden;
-}
 a {
     text-decoration: none;
     color: #E9E3DF;
@@ -133,5 +130,4 @@ header .link ul a:hover {
     width: 240px;
     height: 240px;
 }
-
 /* End Container Thing */
